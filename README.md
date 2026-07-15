@@ -17,9 +17,9 @@ This is a **public working draft**, published for comment before any wider relea
 
 Jde o **veřejný pracovní návrh** zveřejněný k připomínkám před případným širším uvedením. Autor je registrovaným autorem OSA (od 29. dubna 2022) a hudební producent / zvukař, a stojí tedy na obou stranách popisovaného vztahu. Cílem je faktická přesnost a vyváženost, nikoli obhajoba.
 
-**Feedback is welcome via [Issues](../../issues).** Corrections, additional primary sources, and counter-arguments are all useful. All 43 notes carry a primary or best-available source; one item (the 2011 spa-filing figure) is still marked *(source to be finalised)* pending a primary document.
+**Feedback is welcome via [Issues](../../issues).** Corrections, additional primary sources, and counter-arguments are all useful. All 43 notes carry a primary or best-available source.
 
-**Připomínky uvítám prostřednictvím [Issues](../../issues).** Opravy, doplňující primární zdroje i protiargumenty jsou vítány. Všech 43 poznámek má primární nebo nejlépe dostupný zdroj; jediná položka (údaj o lázeňské žalobě z roku 2011) je stále označena *(zdroj bude doplněn)*, dokud nebude doložen primárním dokumentem.
+**Připomínky uvítám prostřednictvím [Issues](../../issues).** Opravy, doplňující primární zdroje i protiargumenty jsou vítány. Všech 43 poznámek má primární nebo nejlépe dostupný zdroj.
 
 ## Disclaimer / Upozornění
 
@@ -27,4 +27,4 @@ This document is not legal advice. / Tento dokument nepředstavuje právní pora
 
 ## License / Licence
 
-Text released under **CC BY 4.0** unless you decide otherwise before publishing. / Text uvolněn pod licencí **CC BY 4.0**, nerozhodnete-li před zveřejněním jinak.
+Text released under **CC BY 4.0** — see [LICENSE](LICENSE). You are free to share and adapt the material with attribution. / Text uvolněn pod licencí **CC BY 4.0** — viz [LICENSE](LICENSE). Materiál smíte šířit a upravovat s uvedením autora.
